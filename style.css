@@ -1,0 +1,49 @@
+/* intoduction */
+/* .myintro
+{
+    background-color:#270744;
+    height:500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.courgette-regular {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+  }
+
+  .myphoto
+  {
+    height:100px;
+    width:100px;
+    border-radius:50%;
+
+  }
+  /* .mydetail
+  {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+  } */
+  .intro-content
+  {
+    font-size:20px;
+    text-align:center;
+  }
+  .libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .project-head-bg
+  {
+    background-color: #672167;
+    color:white;
+    text-align: center;
+  }
+  .footer-bg
+  {
+    background-color: #270744;
+  }
